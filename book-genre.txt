@@ -11,6 +11,18 @@ Genre-Romance
 9.The Flatshare" by Beth O'Leary
 10.Call Me By Your Name" by André Aciman
 
+Genre-Fantasy
+1.The Hobbit by J.R.R. Tolkien
+2.The Sword in the Stone by T.H. White
+3.The Lion, the Witch, and the Wardrobe by C.S. Lewis
+4.The Last Unicorn by Peter S. Beagle
+5.Watership Down by Richard Adams
+6.The Dark is Rising by Susan Cooper
+7.A Midsummer Tempest by Poul Anderson
+8.The Gunslinger by Stephen King
+9.The Color of Magic by Terry Pratchett
+10.Little, Big by John Crowley
+
 Genre-Horror
 1.Dracula" by Bram Stoker
 2.Frankenstein" by Mary Shelley
