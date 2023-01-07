@@ -1,15 +1,15 @@
 Books and their Authors are listed below:
 Genre-Romance
-1.Pride and Prejudice" by Jane Austen
-2.Wuthering Heights" by Emily Brontë
-3.Jane Eyre" by Charlotte Brontë
-4.Sense and Sensibility" by Jane Austen
-5.The Great Gatsby" by F. Scott Fitzgerald
-6.Anna and the French Kiss" by Stephanie Perkins
-7.Love and Other Mistakes" by Adriana Locke
-8.Eleanor and Park" by Rainbow Rowell
-9.The Flatshare" by Beth O'Leary
-10.Call Me By Your Name" by André Aciman
+1."Pride and Prejudice" by Jane Austen
+2."Wuthering Heights" by Emily Brontë
+3."Jane Eyre" by Charlotte Brontë
+4."Sense and Sensibility" by Jane Austen
+5.Anna Karenina by Leo Tolstoy
+6.North and South by Elizabeth Gaskell
+7.Emma by Jane Austen
+8.Maurice by E.M. Forster
+9.Maurice by E.M. Forster
+10.Romeo and Juliet by William Shakespeare
 
 Genre-Fantasy
 1.The Hobbit by J.R.R. Tolkien
