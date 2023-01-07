@@ -23,6 +23,18 @@ Genre-Horror
 9.The Turn of the Screw" by Henry James
 10.The Walking Dead" by Robert Kirkman
 
+Genre-Women Empowerment
+1.Lean In: Women, Work, and the Will to Lead by Sheryl Sandberg
+2.Sister Outsider by Audre Lorde
+3.The Handmaid's Tale" by Margaret Atwood
+4.The Feminine Mystique" by Betty Friedan
+5.Women Who Run with the Wolves" by Clarissa Pinkola Estés
+6.The Bell Jar" by Sylvia Plath
+7.I Know Why the Caged Bird Sings by Maya Angelou
+8.Beloved by Toni Morrison
+9.A Room of One's Own by Virginia Woolf
+10.The Color Purple" by Alice Walker
+
 Genre-Mystery
 1.The Adventures of Sherlock Holmes" by Arthur Conan Doyle
 2.The Adventures of Hercule Poirot" by Agatha Christie
