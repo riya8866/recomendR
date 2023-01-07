@@ -62,11 +62,11 @@ Genre-Science Fiction
 Genre-Autobiography
 1.The Autobiography of Malcolm X" by Malcolm X and Alex Haley
 2.The Diary of Anne Frank" by Anne Frank
-3.I Know Why the Caged Bird Sings" by Maya Angelou
-4.The Long Walk" by Slavomir Rawicz
-5.The Story of My Experiments with Truth" by Mahatma Gandhi
-6.The Color of Water" by James McBride
-7.The Autobiography of Martin Luther King Jr." by Martin Luther King Jr.
+3.Long Walk to Freedom by Nelson Mandela
+4.The Story of My Experiments with Truth by Mahatma Gandhi
+5.The Color of Water by James McBride
+6.The Autobiography of Martin Luther King Jr." by Martin Luther King Jr.
+7.An Unsuitable Boy by Karan Johar
 8.Man's Search for Meaning" by Viktor Frankl
 9.The Motorcycle Diaries" by Che Guevara
 10.An Unquiet Mind" by Kay Redfield Jamison
