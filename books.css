@@ -1,0 +1,23 @@
+img.book_pic{
+    width: 51mm;
+    border: 5px solid black;
+    border-radius: 13px;
+    float: left;
+    margin-bottom: 45px;
+    margin-right: 35px;
+}
+div.book{
+    margin: 54px;
+    clear: both;
+    margin-right:78px ;
+    margin-left:78px ;
+}
+p.book_desc{
+    font-size:larger;
+    margin-top:25px ;
+    
+}
+h3.book_name{
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
