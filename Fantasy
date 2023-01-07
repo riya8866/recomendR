@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>horror</title>
+    <!-- <link rel="stylesheet" href="books.css"> -->
+</head>
+<body>
+    <header>
+        <h2>Fantasy</h2>
+    </header>
+
+    <div class="book">
+        <h3 class="book_name">The Hobbit by J.R.R. Tolkien </h3>
+        <img src="https://m.media-amazon.com/images/I/5187PQgDScL.jpg" alt="" class="book_pic">
+        
+        <p class="book_desc">
+            It might be a childhood favorite, but The Hobbit gives adult fantasy readers one of the genre’s most relatable protagonists: a middle-aged homebody who just wants to chill. The iconic Bilbo Baggins speaks to all grownup introverts who like nothing more than a good meal and a cozy chair. But we all hope we’d find Bilbo-like reservoirs of heroism within us — yes, while a career as a Chosen One might be out of reach for us, we can all aspire to be Bilbo Baggins.
+        </p>
+        <p class="buy_book">
+        Wanna get this book?
+        <a href="https://www.amazon.com/dp/B0079KT81G?tag=reedwebs-20&linkCode=ogi&th=1&psc=1" target="_blank">Click here</a>
+    </p>
+    </div>
+
+    <div class="book">
+        <h3 class="book_name">The Sword in the Stone by T.H. White</h3>
+        <img src=https://m.media-amazon.com/images/I/61Iy1lOvd1L.jpg alt="" class="book_pic">
+        
+        <p class="book_desc">
+            We all know what happens after King Arthur pulls the sword out of the stone; The Sword in the Stone takes a look at the before. Predictably, it’s much less glamorous. In this telling, the archetypical fantasy monarch was once just a boy called Wart — teased by his foster-brother Kay and subjected to a punishing round of lessons that would make any modern high-schooler wince in sympathy. Only Wart’s education doesn’t involve AP Calculus and JV Track... and his teacher, Merlyn, prefers to instruct by turning his students into animals instead of grilling them with the Socratic method.
+        </p>
+        <p class="buy_book">
+        Wanna get this book?
+        <a href=https://www.amazon.com/dp/000726349X?tag=reedwebs-20&linkCode=ogi&th=1&psc=1 target="_blank">Click here</a>
+    </p>
+
+    </div>
+    <div class="book">
+        <h3 class="book_name">The Lion, the Witch, and the Wardrobe by C.S. Lewis</h3>
+        <img src= "https://m.media-amazon.com/images/I/51hQ4EstmyL.jpg" alt="" class="book_pic">
+        
+        <p class="book_desc">
+            When the four Pevensie siblings leave bomb-ravaged London to wait out World War II in the countryside, they discover a portal to the magical land of Narnia behind a pile of fur coats. But their magical new vacation spot suffers from bad leadership: it’s governed by a witch whose only policy decisions are about ensuring eternal winter with no Christmas cheer. The Pevensies have to oust her — with the help of a talking lion! If you’re a fantasy buff, you’ll already know that the lion is a Christological stand-in, and that The Lion, the Witch, and the Wardrobe is a meditation on redemption, sacrifice, and faith. But you don’t need to worship anything to want to drop in on Narnia for an hour or two.
+        </p>
+        <p class="buy_book">
+        Wanna get this book?
+        <a href="https://www.amazon.com/dp/B001I45UFC?tag=reedwebs-20&linkCode=ogi&th=1&psc=1" target="_blank">Click here</a>
+    </p>
+    </div>
+
+    <div class="book">
+        <h3 class="book_name">The Last Unicorn by Peter S. Beagle </h3>
+        <img src= "https://m.media-amazon.com/images/I/41OdHdVwcoL.jpg" alt="" class="book_pic">
+        
+        <p class="book_desc">
+            With its shimmering, lilac-scented prose, The Last Unicorn treads the line between novel and poetry — reading with the ease of a bedtime story and the depth of an allegory. In this gossamer world, we meet an immortal Unicorn, who’s grieved to learn from a hunting party that she might be the last of her kind. Upon leaving her enchanted forest to investigate their claims, she finds that humans perceive her as an ordinary white horse. The Unicorn’s wanderings put her in the company of ringmasters and harpies, magicians and kings: some who want to harm her, and some who do their best to help.
+
+
+        </p>
+        <p class="buy_book">
+        Wanna get this book?
+        <a href="https://www.amazon.com/dp/B007EZJKS2?tag=reedwebs-20&linkCode=ogi&th=1&psc=1" target="_blank">Click here</a>
+    </p>
+    </div>
+
+    <div class="book">
+        <h3 class="book_name">Watership Down by Richard Adams</h3>
+        <img src= "https://m.media-amazon.com/images/I/410BgF0czrL.jpg" alt="" class="book_pic">
+        
+        <p class="book_desc">
+            If you don’t think a rabbit warren could be reasonably described as epic fantasy, clearly you’ve never read Watership Down. This stirring adventure story has it all: warriors and visions, harrowing escapes and heartbreaking deaths — its stars just happen to be unusually soft of fur and long of ear. Indeed, when human encroachment on their environment threatens their way of life, the rabbits react the way any self-respecting group of noble warriors would: by going on a quest. Despite its adorable premise, Richard Adams’ novel draws on a rich wellspring of literary precedents, and reads like Beowulf by way of Beatrix Potter.
+        </p>
+        <p class="buy_book">
+        Wanna get this book?
+        <a href="https://www.amazon.com/dp/B002NXOQF2?tag=reedwebs-20&linkCode=ogi&th=1&psc=1" target="_blank">Click here</a>
+    </p>
+    </div>
+
+    <div class="book">
+        <h3 class="book_name">The Dark is Rising by Susan Cooper</h3>
+        <img src= "https://m.media-amazon.com/images/I/51+cceyY8cL.jpg" alt="" class="book_pic">
+        
+        <p class="book_desc">
+            A perennial favorite of both elementary schoolers and their teachers, The Dark is Rising renders the cosmic conflict between Light and Dark in lively style, at a scale accessible to young readers. It centers on British schoolboy Will Stanton, who discovers, on his eleventh birthday, that he’s actually an immortal Light warrior known as an Old One — bound to play out an eternal struggle against the forces of the Dark. This story is perfectly contextualized by Susan Cooper's vast mythological knowledge, drawing generously from the sea-scented myths of her native British Isles, especially the Arthurian legend.
+        </p>
+        <p class="buy_book">
+        Wanna get this book?
+        <a href="https://www.amazon.com/dp/0689829833?tag=reedwebs-20&linkCode=ogi&th=1&psc=1" target="_blank">Click here</a>
+    </p>
+    </div>
+    
+    <div class="book">
+        <h3 class="book_name"> A Midsummer Tempest by Poul Anderson</h3>
+        <img src= "https://m.media-amazon.com/images/I/516ENY-ajOL.jpg" alt="" class="book_pic">
+        
+        <p class="book_desc">
+            Poul Anderson is better known for his science fiction, but this slim, strange, and utterly engrossing book demonstrates his range as a storyteller. A Midsummer Tempest takes place in an alternate version of 17th century — one where everything Shakespeare wrote actually happened and fairies were very much real. Inventive as the premise sounds, this one’s really quite faithful as far as Shakespearean fanfic goes: all the noble characters speak in iambic pentameter, as if they were written by the Bard himself. 
+        </p>
+        <p class="buy_book">
+        Wanna get this book?
+        <a href="https://www.amazon.com/dp/B00PI181I4?tag=reedwebs-20&linkCode=ogi&th=1&psc=1" target="_blank">Click here</a>
+    </p>
+    </div>
+
+    <div class="book">
+        <h3 class="book_name"> The Gunslinger by Stephen King</h3>
+        <img src= "https://m.media-amazon.com/images/I/51HDlI3s9eL.jpg" alt="" class="book_pic">
+        
+        <p class="book_desc">
+            Stephen King is best known for infiltrating our nightmares with stalkers and murderous clowns. But The Gunslinger proves he’s got a gift for fantasy too — just don’t expect it to be light and fluffy! This novel pulls from a broad palette of influences, from cowboy westerns to the poetry of Robert Browning. The hero, Roland of Gilead, wields his gun in pursuit of a shadowy Man in Black who's as dangerous as he is mysterious, with the power to spawn demons and raise the dead. Luckily or not, Roland's not alone in his pursuit; he finds a traveling companion in Jake Chambers, a schoolboy from our world.
+        </p>
+        <p class="buy_book">
+        Wanna get this book?
+        <a href="https://www.amazon.com/dp/B018ER7JRC?tag=reedwebs-20&linkCode=ogi&th=1&psc=1" target="_blank">Click here</a>
+    </p>
+    </div>
+    
+    <div class="book">
+        <h3 class="book_name">The Color of Magic by Terry Pratchett</h3>
+        <img src= "https://m.media-amazon.com/images/I/51Vh3wGCBVL.jpg" alt="" class="book_pic">
+        
+        <p class="book_desc">
+            Beloved fantasy writer Terry Pratchett made his name on tales from Discworld: a flat, circular planet, carried on the backs of four elephants balanced on a turtle. The 41-book series is a world unto its own — and it all began with The Color of Magic. Pratchett conceived the book as an antidote to the dark lord-y, paint-by-numbers fantasy that saturated the market at the time. The result is playful-yet-thoughtful story about an incompetent wizard and a ignorant tourist, whose adventure reads like a hilarious, sparkling travelogue.
+        </p>
+        <p class="buy_book">
+        Wanna get this book?
+        <a href="https://www.amazon.com/dp/B000W9399S?tag=reedwebs-20&linkCode=ogi&th=1&psc=1" target="_blank">Click here</a>
+    </p>
+    </div>
+
+    <div class="book">
+        <h3 class="book_name">Little, Big by John Crowley</h3>
+        <img src= "https://m.media-amazon.com/images/I/51Ce3fS25dL.jpg" alt="" class="book_pic">
+        
+        <p class="book_desc">
+            Little, Big is the perfect fantasy novel for people who don’t like fantasy. It reads like a prestigious generational saga, the kind of thing you’d find in English dissertations and on Booker Prize shortlists — just with a few fairies thrown into the mix. No wonder literary critic Harold Bloom, notorious for thumbing his nose at the likes of Harry Potter, praised it as a “neglected masterpiece.” At its center is the Drinkwater family, whose architect patriarch built their sprawling family estate in the hazy borderlands between the Faerie world and New York — which invites a great deal of complexity into their lives
+        </p>
+        <p class="buy_book">
+        Wanna get this book?
+        <a href="https://www.amazon.com/dp/B005DB7O0U?tag=reedwebs-20&linkCode=ogi&th=1&psc=1" target="_blank">Click here</a>
+    </p>
+    </div>
+
+
+
+    
+</body>
+</html>
