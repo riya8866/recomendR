@@ -1,7 +1,43 @@
+*{
+    background-color: #cdcdcd
+}
+
+.navbar{
+    
+    border-radius: 30px;
+    background-color: #424242;
+    
+}
+.navbar ul{
+    overflow: auto;
+    background-color: #5a5959;
+    border-radius: 30px;
+}
+.navbar li{
+    float:left;
+    list-style: none; 
+    margin: 13px 20px;
+    
+}
+.navbar li span{
+    font-size: larger;
+    font-family: 'Prosto One', cursive;
+    /* font-family: 'Rowdies', cursive; */
+    background-color: #5a5959;
+}
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+    background-color: #5a5959;
+}
+.navbar li a:hover{
+    color: rgb(45, 45, 45)
+}
+
 img.book_pic{
     width: 51mm;
     border: 5px solid black;
-    border-radius: 13px;
     float: left;
     margin-bottom: 45px;
     margin-right: 35px;
@@ -11,6 +47,7 @@ div.book{
     clear: both;
     margin-right:78px ;
     margin-left:78px ;
+    
 }
 p.book_desc{
     font-size:larger;
@@ -19,5 +56,19 @@ p.book_desc{
 }
 h3.book_name{
     font-size: larger;
+    padding: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* background-color: #9d9d9d; */
+    width: max-content;
+    border: 1px solid #9d9d9d;
+    border-radius: 13px;
+}
+.genre_name h2{
+    font-size: 56px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 55px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    
+    background-color: #8e8f90;
+    padding-left: 44px;
 }
