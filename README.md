@@ -1,4 +1,4 @@
-# Book Recommendation System📚 <br /> 
+# Book Recommendation Website📚 <br /> 
 🔲Introduction    <br />
    Today the amount of information on the internet is growing rapidly and people need some instruments to find and access appropriate information. One of such tools is    called recommendation system. Recommendation systems help to navigate quickly and receive necessary information. <br />                        
 📌The main idea of this project is to recommend books to the users according to their varied interests and preferences.             
