@@ -4,15 +4,16 @@
 📌The main idea of this project is to recommend books to the users according to their varied interests and preferences.
 
 
-
+                                                                                                                                                                        
 🔲Tools & Technologies Used
   HTML for adding web pages, CSS for styling and layout.
 
 
-
-🔲Dataset information
-  📌Users
-     Can select the genre/type of the book they'd like to read.
+                                                                                                                                                                       
+                                                                                                                                                                       
+🔲Dataset information                                                                                                                                                 
+  📌Users                                                                                                                                                             
+    Can select the genre/type of the book they'd like to read.
   📌Books
     Book-Title:Title of the book
     Book-Author:Author of the book
@@ -21,12 +22,12 @@
     Buy_Book Link-L: URL link to Large sized image of the book cover displayed on the Amazon website.
 
 
-
+                                                                                                                                                                          
 🔲References
   Google chrome, Amazon for image URLs.
 
 
-
+                                                                                                                                                                           
 🔲Contributors
   Muskan Motwani
   Ankita Khokhar
