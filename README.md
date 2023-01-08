@@ -26,4 +26,4 @@
   Muskan Motwani
   Ankita Khokhar
   Riya Jain
-  Harshita
+  Harshita Gupta
