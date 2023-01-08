@@ -12,14 +12,14 @@
 <br />
                                                                                                                                                                        
                                                                                                                                                                        
-🔲Dataset information   <br />                                                                                                                                    
+🔲Dataset information                                                                                                                                     
    📌Users                                                                                                                                                             
     Can select the genre/type of the book they'd like to read. <br />
-  📌Books
-    Book-Title:Title of the book
-    Book-Author:Author of the book
-    Book_review: small description of the book.
-    Image_of_the_book _cover: small version of the book cover displayed on the Amazon website.
+  📌Books<br>
+    Book-Title:Title of the book<br>
+    Book-Author:Author of the book<br>
+    Book_review: small description of the book.<br>
+    Image_of_the_book _cover: small version of the book cover displayed on the Amazon website.<br>
     Buy_Book Link-L: URL link to Large sized image of the book cover displayed on the Amazon website.
 
  <br /> 
@@ -30,11 +30,11 @@
 
 
 <br />                                                                                                                                                                           
-🔲Contributors
+🔲Contributors<br>
   Muskan Motwani   <br />
   Ankita Khokhar   <br />
   Riya Jain       <br />
-  Harshita        <br />
+  Harshita Gupta      <br />
 
 
 
