@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Prosto+One&family=Rowdies:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&family=Prosto+One&family=Rowdies:wght@300&display=swap');
+
+
+*{
+    background-color: #b7b7b7;
+}
+.navbar{
+    
+    border-radius: 30px;
+    background-color: #424242;
+    
+}
+.navbar ul{
+    overflow: auto;
+    background-color: #b7b7b7;
+    border-radius: 30px;
+}
+.navbar li{
+    float:left;
+    list-style: none; 
+    margin: 13px 20px;
+    
+}
+.navbar li span{
+    font-size: larger;
+    font-family: 'Prosto One', cursive;
+    /* font-family: 'Rowdies', cursive; */
+    background-color: #b7b7b7;
+}
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+    background-color: #b7b7b7;
+}
+.navbar li a:hover{
+    color: rgb(59, 59, 59)
+}
+
+.blog_name{
+    text-align: center;
+}
+.blog_name h2{
+    font-family: 'Prosto One', cursive;
+    font-size:65px;
+    margin-top: 67px;
+    margin-bottom: 2px;
+}
+.blog_name span{
+    font-size: 30px;
+    font-family: 'Moon Dance', cursive;
+    font-weight: 400;
+}
+.quote{
+    font-size: 28px;
+    text-align: center;
+    margin-top: 56px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-left: 45px;
+    padding-right: 45px;
+    
+    font-weight: 100;
+}
+.quote span{
+    font-family: cursive;
+    font-size: 34px;
+    margin-bottom: 21px;
+}
+.txt{
+    font-size: 25px;
+    margin: 36px;
+    color: #3d3c3c;
+}
+.genres {
+    margin: 23px;
+    clear: both;
+    margin-left: 47px;
+}
+.genres p{
+    font-size: 25px;
+    font-style: italic;
+}
+.genres li{
+    margin-top: 8px;
+}
+.genres li a{
+    text-decoration: none;
+    color: blue;
+    font-size: larger;
+}
+.genres li a:hover{
+    color: black;
+}
